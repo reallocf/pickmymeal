@@ -26,12 +26,19 @@ Note that API key will be cached in local dir in this file:
 All tags available*:
 
 vegetarian
+
 vegan
+
 glutenFree
+
 dairyFree
+
 sustainable
+
 lowFodmap
+
 ketogenic
+
 whole30
 
-* I think - maybe I missed some or new ones were added :)
+*I think - maybe I missed some or new ones were added :)
